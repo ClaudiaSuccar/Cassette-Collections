@@ -8,5 +8,3 @@ Uses CSS Flexbox for responsive design.
 Accessibility with tabindex and semantic meaning.
 
 Landing page consists of a navigation bar, footer section, shopping categories, and an embedded video.
-Color palette, fonts, and overall style, made to fit Cassette Collections culture.
-
